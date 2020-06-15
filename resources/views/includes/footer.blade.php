@@ -1,0 +1,1 @@
+<div id="copyright text-right">Let's have fun!</div>
