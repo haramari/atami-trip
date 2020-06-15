@@ -18,25 +18,20 @@
 
     </head>
     <body>
+    <div class="container">
+        <div class="content">
+        <header class="row">
+            @include('includes.header')
+        </header>
 
-            <div class="container">
-                <div class="content">
-                <header class="row">
-                    @include('includes.header')
-                </header>
+        <div class="card">
+        <div class="card-header">
+        <p>About Atami</p>
+        <p>Click the image below to check the official website!</p>
+        <a href="https://travel.ataminews.gr.jp/en/" target="_blank"><img id="animal-onsen" src="/images/animal_onsen.png"></a>
+        </div>
 
-                <div class="container">
-
-
-<div class="card">
-
-  <div class="card-header">
-  <p>About Atami</p>
-  <p>Click the image below to check the official website!</p>
-  <a href="https://travel.ataminews.gr.jp/en/" target="_blank"><img id="animal-onsen" src="/images/animal_onsen.png"></a>
-  </div>
-
-  <div class="card-body">
+        <div class="card-body">
 
                     <div class="row">
                         <div class="timeline-centered">
@@ -304,9 +299,7 @@
                 </div>
               </div>
 
-  </div>
-</div>
-
+              </div>
               </div>
             </div>
         </div>
