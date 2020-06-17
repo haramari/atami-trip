@@ -23,8 +23,7 @@
         <div class="card">
             <div class="card-header">
             <img id="noren" src="/images/header.png">
-            <p>About Atami</p>
-            <p>Click the image below to check the official website!</p>
+            <p>Click the image below to check the official website of Atami city!</p>
             <a href="https://travel.ataminews.gr.jp/en/" target="_blank"><img id="animal-onsen" src="/images/animal_onsen.png"></a>
             </div>
 
