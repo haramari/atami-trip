@@ -65,6 +65,15 @@ html, body {
 
 #noren{
     margin: 0 auto;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#animal-onsen{
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
     text-align: center;
 }
 

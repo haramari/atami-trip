@@ -18,14 +18,13 @@
 
     </head>
     <body>
-    <div class="container">
+    <div class="container" style="width:90%;">
         <div class="content">
-        <header class="row">
-            @include('includes.header')
-        </header>
+
 
         <div class="card">
         <div class="card-header">
+        @include('includes.header')
         <p>About Atami</p>
         <p>Click the image below to check the official website!</p>
         <a href="https://travel.ataminews.gr.jp/en/" target="_blank"><img id="animal-onsen" src="/images/animal_onsen.png"></a>
