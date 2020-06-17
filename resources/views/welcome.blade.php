@@ -18,17 +18,15 @@
 
     </head>
     <body>
-    <div class="container" style="width:90%;">
+    <div class="container-fluid">
         <div class="content">
-
-
         <div class="card">
-        <div class="card-header">
-        @include('includes.header')
-        <p>About Atami</p>
-        <p>Click the image below to check the official website!</p>
-        <a href="https://travel.ataminews.gr.jp/en/" target="_blank"><img id="animal-onsen" src="/images/animal_onsen.png"></a>
-        </div>
+            <div class="card-header">
+            @include('includes.header')
+            <p>About Atami</p>
+            <p>Click the image below to check the official website!</p>
+            <a href="https://travel.ataminews.gr.jp/en/" target="_blank"><img id="animal-onsen" src="/images/animal_onsen.png"></a>
+            </div>
 
         <div class="card-body">
 
@@ -180,7 +178,7 @@
 
                         <div class="timeline-entry-inner">
                             <time class="timeline-time" datetime="2014-01-10T03:45">
-                            <span><strong>xx:xx PM</strong></span>
+                            <span><strong>6:00 PM</strong></span>
                             <span><strong>Friday</strong></span></time>
 
                             <div class="timeline-icon bg-primary">
@@ -189,7 +187,7 @@
 
                             <div class="timeline-label">
                                 <h2>Evening group</h2>
-                                <blockquote>Evening group leaves the house at xx pm.</blockquote>
+                                <blockquote>Evening group leaves the house around 6pm.</blockquote>
                                 <p><img id="min-night" src="/images/night.png"></p>
                                                               <div class="member-modal">
                                 <!-- Button trigger modal -->

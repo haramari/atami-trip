@@ -59,8 +59,8 @@ html, body {
     text-align:center;
     width: 90%;
 }
-.card-deck{
-    width: 30rem;
+.card{
+    width: 100%;
 }
 
 #noren{
@@ -165,7 +165,7 @@ html, body {
         position: relative;
         width: 50%;
         float: right;
-        margin-bottom: 70px;
+        margin-bottom: 30px;
         clear: both;
     }
 
