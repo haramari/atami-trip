@@ -237,7 +237,7 @@
                             <div class="timeline-label">
                                 <h2>Checkout</h2>
 
-                                <blockquote><p>Checkout is at 10:00 AM.</p>
+                                <blockquote><p><h2>Checkout is at 10:00 AM.</h2></p>
                                 After checking out we will divide in two groups. Group A goes to Onsen while group B goes to the Atami Castle.</blockquote>
 
                                 <li>Group A: Onsen</li>
