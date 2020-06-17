@@ -77,6 +77,10 @@ html, body {
     text-align: center;
 }
 
+.list-group{
+    margin:10px;
+}
+
 .min-icons{
     margin: 10px;
     width: 4rem;

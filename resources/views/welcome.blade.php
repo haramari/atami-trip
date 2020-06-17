@@ -23,11 +23,16 @@
         <div class="card">
             <div class="card-header">
             <img id="noren" src="/images/header.png">
-            <p>Click the image below to check the official website of Atami city!</p>
+
             <a href="https://travel.ataminews.gr.jp/en/" target="_blank"><img id="animal-onsen" src="/images/animal_onsen.png"></a>
+            <p><h5>Click the animals to check the official website of Atami city!</h5></p>
             </div>
 
         <div class="card-body">
+
+             <ul class="list-group list-group-flush">
+                <li class="list-group-item">Schedule</li>
+            </ul>
 
                     <div class="row">
                         <div class="timeline-centered">
