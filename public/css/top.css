@@ -1,6 +1,6 @@
 html, body {
     background-color: #DFF0FF;
-    color: #black;
+    color: black;
     font-family: 'Nunito', sans-serif;
     font-weight: 200;
     height: 100vh;
@@ -41,7 +41,7 @@ html, body {
 }
 
 .links > a {
-    color: #636b6f;
+    color: black;
     padding: 0 25px;
     font-size: 13px;
     font-weight: 600;
@@ -275,7 +275,7 @@ float: left;
 
         .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon {
             background: #fff;
-            color: #737881;
+            color: black;
             display: block;
             width: 40px;
             height: 40px;
@@ -352,7 +352,7 @@ float: left;
             }
 
     .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2, .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p {
-        color: #737881;
+        color: black;
         font-family: "Noto Sans",sans-serif;
         font-size: 12px;
         margin: 0;
@@ -369,7 +369,7 @@ float: left;
     }
 
         .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 a {
-            color: #303641;
+            color: black;
         }
 
         .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 span {
