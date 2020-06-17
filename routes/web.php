@@ -17,7 +17,4 @@ Route::get('/', function () {
     return view('welcome');
 })->name('top');
 
-Route::get('/morning','TrafficController@morning')->name('morning');
-Route::get('/evening','TrafficController@evening')->name('evening');
-Route::get('/other', 'TrafficController@other')->name('other');
-
+Route::get('/bonus', 'TrafficController@bonus')->name('bonus');

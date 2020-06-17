@@ -77,6 +77,10 @@ html, body {
     text-align: center;
 }
 
+#bonus{
+    color: #fff;
+}
+
 .list-group{
     margin:10px;
 }
@@ -384,6 +388,6 @@ float: left;
             filter: alpha(opacity=60);
         }
 
-    blockquote{
-        font-size: 15px;
-    }
+blockquote{
+    font-size: 15px;
+}

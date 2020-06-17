@@ -7,18 +7,9 @@ use Illuminate\Http\Request;
 class TrafficController extends Controller
 {
 
-    public function morning()
+    public function bonus()
     {
-        return view('options.morning');
+        return view('bonus');
     }
 
-    public function evening()
-    {
-        return view('options.evening');
-    }
-
-    public function other()
-    {
-        return view('options.other');
-    }
 }
